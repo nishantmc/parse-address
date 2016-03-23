@@ -1,0 +1,15 @@
+{
+  "name": "parse-address-bower",
+  "description": "Forked from hassansin/parse-address",
+  "author": "hassansin",
+  "version": "1.0.0",
+  "license": "ISC",
+  "main": "parse-address.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nishantmc/parse-address"
+  },
+  "dependencies": {
+    "xregexp": "^2.0.0"
+  }
+}
